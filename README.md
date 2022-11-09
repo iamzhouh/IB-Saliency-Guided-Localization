@@ -4,4 +4,4 @@ Please refer to our paper **Improving Interpretability by Information Bottleneck
 
 ## Code
 
-Code instructions will follow soon.
+Code instructions and the rest of the code will follow soon.
