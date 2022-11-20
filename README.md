@@ -1,6 +1,6 @@
 ## Introduction
 
-Please refer to our paper **Improving Interpretability by Information Bottleneck Saliency Guided Localization**, published in *The British Machine Vision Conference (BMVC), 2022*. 
+Please refer to our paper [Improving Interpretability by Information Bottleneck Saliency Guided Localization](https://bmvc2022.mpi-inf.mpg.de/paper_0605.html), published in *The British Machine Vision Conference (BMVC), 2022*. 
 
 ```bibtex
 @inproceedings{Zhou_2022_BMVC,
